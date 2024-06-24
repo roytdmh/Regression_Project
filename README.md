@@ -1,2 +1,2 @@
-# Regression_Project
+# Supervised Regression_Project
 Supervised learning project
